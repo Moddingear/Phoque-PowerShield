@@ -1,4 +1,4 @@
-= Phoque Power Shield
+# Phoque Power Shield
 
 This is an example shield for the Phoque-series of brushless drivers. Includes:
 - XT60 connector
